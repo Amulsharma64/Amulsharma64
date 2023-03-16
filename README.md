@@ -1,5 +1,5 @@
   ![Github banner](https://github.com/Amulsharma64/Amulsharma64/blob/main/images/github%20Banner.png)
-  <a href="https://github.com/Meghna-DAS/Meghna-DAS/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+<a href="https://github.com/Amulsharma64/Amulsharma64/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
   
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="40">
 
