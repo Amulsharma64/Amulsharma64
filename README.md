@@ -3,7 +3,7 @@
   
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40" width="40">
 
-This is Amul Sharma here and I am currently Pursuing MCA(Master of Comouter Application) at RBMI Group of Institutions, Greater Noida. I have completed my Bachelors of Computer Applications from RBMI Group of Institutions, Greater Noida. I have previous work experiences as a Full Stack Developer. My areas of expertise include Coding and computer programming, Software development,Software testing,and Object-oriented design (OOD). My hobbies are Travelling, Reading, and photography. 
+This is Amul Sharma here and I am currently Pursuing MCA(Master of Computer Application) at RBMI Group of Institutions, Greater Noida. I have completed my Bachelors of Computer Applications from RBMI Group of Institutions, Greater Noida. I have previous work experiences as a Full Stack Developer. My areas of expertise include Coding and computer programming, Software development,Software testing,and Object-oriented design (OOD). My hobbies are Travelling, Reading, and photography. 
 
 - 👀 I’m interested in ...Web technology
 - 🌱 I’m currently learning ...MongoDb And nodejs
